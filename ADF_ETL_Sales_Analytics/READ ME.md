@@ -140,7 +140,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Acknowledgments
 - Special thanks to [Microsoft Azure](https://azure.microsoft.com/) for cloud-based data management solutions.
-- This project was completed as part of a Master’s program project at the University of Auckland. Special thanks to the University of Auckland for the opportunity to undertake this project and for their invaluable support.
+- This project was completed as part of a Master’s program project at the [University of Auckland](https://www.auckland.ac.nz/en.html). Special thanks to the University of Auckland for the opportunity to undertake this project and for their invaluable support.
 
 
 
