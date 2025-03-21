@@ -139,7 +139,7 @@ This project demonstrates the effectiveness of **data warehousing using Azure te
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-Special thanks to [Microsoft Azure](https://azure.microsoft.com/) for cloud-based data management solutions and OpenAI's ChatGPT for documentation assistance.
+Special thanks to [Microsoft Azure](https://azure.microsoft.com/) for cloud-based data management solutions.
 
 
 
