@@ -1,5 +1,5 @@
  
-## Project Type : Advanced Sales & Marketing Data Warehousing with Azure
+## Project Title : Advanced Sales & Marketing Data Warehousing with Azure
 
 ### Author : Pratik Ganguli 
 
@@ -105,7 +105,7 @@ Each **dimension table** connects to **FactSale**, ensuring structured analytics
    git clone https://github.com/yourusername/AdventureWorksDataWarehouse.git
    cd AdventureWorksDataWarehouse
    ```
-2. Connect to the OLTP database using **Azure Data Studio**.
+2. Connect to the OLTP database server using **Azure Data Studio**.
 3. Execute **ETL pipelines** in **Azure Data Factory**.
 4. Query the **Adventure Works Data Warehouse** using SQL for analysis.
 
@@ -139,7 +139,8 @@ This project demonstrates the effectiveness of **data warehousing using Azure te
 This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
-Special thanks to [Microsoft Azure](https://azure.microsoft.com/) for cloud-based data management solutions.
+- Special thanks to [Microsoft Azure](https://azure.microsoft.com/) for cloud-based data management solutions.
+- This project was completed as part of a Master’s program project at the University of Auckland. Special thanks to the University of Auckland for the opportunity to undertake this project and for their invaluable support.
 
 
 
