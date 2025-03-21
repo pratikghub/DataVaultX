@@ -1,6 +1,7 @@
  
-**Project Type** : Advanced Sales & Marketing Data Warehousing with Azure
-**Author**: Pratik Ganguli 
+## Project Type : Advanced Sales & Marketing Data Warehousing with Azure
+
+### Author : Pratik Ganguli 
 
 
 ## Overview
@@ -28,7 +29,7 @@ This implementation follows a **star-schema architecture**, ensuring high-perfor
 ## Dataset
 The dataset consists of historical sales transactions, customer demographics, product details, and time-series data. The **OLTP database** was transformed into an **OLAP format** to facilitate structured analysis. 
 
-Key Data Elements:
+### Key Data Elements:
 - **Customer Data**: Customer type (Individual vs. Store), geographic segmentation, and purchase behavior.
 - **Product Data**: Product categories, subcategories, and pricing.
 - **Sales Transactions**: Order details, discounting effects, and revenue.
